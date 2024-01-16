@@ -44,6 +44,6 @@ A API foi desenvolvida utilizando as seguintes ferramentas:
 - RESTful API
 - Express
 
-![GIF da API](../README/image/API-Rest-full-node.gif)
+<html><img src="./README/image/API-Rest-full-node.gif" alt="GIF"/></html>
 
 Utilize esta API para acessar facilmente os dados históricos do IPCA, realizar consultas específicas e calcular reajustes com base nos índices IPCA para períodos definidos.
